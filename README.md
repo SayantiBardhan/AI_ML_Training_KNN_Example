@@ -5,4 +5,4 @@ This is a KNN example discussed on 16th February during AI / ML training session
 To run this program:
 Dependencies: python, numpy, matplotlib, sklearn.
 
-You can check the difference plots obtained by changing the values of k.
+You can check the different plots obtained by changing the values of k.
